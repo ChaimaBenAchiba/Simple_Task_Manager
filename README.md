@@ -1,6 +1,6 @@
 # 📝 Task-03: Simple Contact Management System
 
-Welcome to Task-03! This project is a Simple Contact Management System developed by Prodigy Infotech. With this system, users can easily store and manage their contact information in a web-based application.
+Welcome to Task-03! This project is a Simple Contact Management System developed . With this system, users can easily store and manage their contact information in a web-based application.
 
 ## Features
 
@@ -32,7 +32,4 @@ This project utilizes HTML, CSS, and JavaScript for the front-end interface and 
 - style.css: CSS file for styling the user interface.
 - script.js: JavaScript file for implementing functionality and managing contact data.
 
-## About Prodigy Infotech
-
-Prodigy Infotech is dedicated to delivering innovative solutions to meet the needs of modern businesses. Task-03 is just one example of our commitment to developing user-friendly and efficient software solutions.
 
