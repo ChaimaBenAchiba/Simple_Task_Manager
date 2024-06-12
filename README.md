@@ -9,7 +9,7 @@ Welcome to Task-03! This project is a Simple Contact Management System developed
 - Edit contact information.
 - Delete contacts as needed.
 - Contacts are stored persistently in a web file.
-
+![Capture d'écran 2024-06-12 230611](https://github.com/ChaimaBenAchiba/Simple_Task_Manager/assets/168870781/d20074da-22e8-4a4f-b64d-a990852e7abc)
 ## Usage
 
 To use the Simple Contact Management System, follow these steps:
