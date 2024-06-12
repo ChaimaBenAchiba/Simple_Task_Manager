@@ -1,6 +1,6 @@
 # 📝 Task-03: Simple Contact Management System
 
-Welcome to Task-03! This project is a Simple Contact Management System developed . With this system, users can easily store and manage their contact information in a web-based application.
+Welcome to Task-03! This project is a Simple Contact Management System developed . With this system, we can easily store and manage their contact information in a web-based application.
 
 ## Features
 
